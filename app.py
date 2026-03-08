@@ -2383,14 +2383,9 @@ elif page == "ℹ️ About":
     st.markdown("""
 ### What ASLC Does
 
-The African Strategic Leverage & Commodity Control Lab is a **scenario analysis tool** — not a
-forecasting engine — that models how much leverage African states hold in
+The African Strategic Leverage & Commodity Control Lab is a **scenario analysis tool** that models how much leverage African states hold in
 critical commodity supply chains, and what policy packages convert resource
 endowments into credible bargaining power without self-harm.
-
-**v3 expands to 20 countries and 11 commodities**, adding Gold, Coffee, Copper,
-and Uranium, and including 12 new countries (Nigeria, Ethiopia, Tanzania,
-Mozambique, Namibia, Niger, Mali, Angola, Uganda, Kenya, Rwanda, Botswana).
 
 ### Leverage Vector (7 Dimensions)
 
@@ -2410,25 +2405,6 @@ Seven instruments with configurable parameters, each producing first-order
 effects and six second-order risk dimensions (capital flight, smuggling,
 retaliation, ISDS, demand destruction, diplomatic friction).
 
-### New v3 Commodities
-
-- **Gold** (Precious Metal): Africa ~25 % of global production. Ghana is
-  Africa's #1 producer. Switzerland is the refining hub. UAE acts as a
-  routing centre. Artisanal mining adds significant unreported supply.
-
-- **Coffee** (Agricultural Commodity): Africa ~12 % of global production.
-  EU buys ~60 %. EU Deforestation Regulation (EUDR) is a critical leverage
-  point and compliance risk. Ethiopia's ECX is a notable state-market
-  institution.
-
-- **Copper** (Industrial Metal): DRC alone is ~12 % of global mine supply.
-  Chinese firms dominate. Lobito Corridor (US/EU-backed) is the key
-  infrastructure competition vector.
-
-- **Uranium** (Energy Mineral): Namibia is Africa's dominant producer (#3
-  world). Niger coup (2023) disrupted French access. China buys 77 % of
-  Namibia's output. Zero African enrichment capacity.
-
 ### Calibration
 
 Calibrated against historical precedents:
@@ -2444,7 +2420,7 @@ Calibrated against historical precedents:
 ### Framing
 
 This tool is framed around **resilience, bargaining realism, and policy
-risk trade-offs** — not as advice for coercion.
+risk trade-offs**.
 
 ### Limitations
 
